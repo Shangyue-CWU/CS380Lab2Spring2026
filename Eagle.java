@@ -5,7 +5,6 @@
  * 
  * This class extends the Animal class to represent an Eagle.
  * It overrides abstract and inherited methods as part of the assignment.
- * 
  */
 
 
