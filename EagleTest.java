@@ -4,7 +4,6 @@
  * Class: CS380
  * 
  * This is the main class to test and execute implemented methods in Eagle
- * 
  */
 public class EagleTest {
 
